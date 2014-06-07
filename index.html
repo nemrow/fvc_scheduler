@@ -421,7 +421,7 @@
               <div>
                 <h2>{{event.title}}</h2>
                 <div class="event-list-lower-half-row">
-                  <h3>{{time event.min_time}} - {{time event.duration}}</h3>
+                  <h3>{{time event.min_time}} - {{time event.max_time}}</h3>
                   <div class="event-option-icons-container">                  
                     {{#if event.extra_cost}}
                       <span class="custom-icon custom-icon-money"></span>
@@ -454,7 +454,7 @@
               <div>
                 <h2>{{title}}</h2>
                 <div class="event-list-lower-half-row">
-                  <h3>{{time min_time}} - {{time duration}}</h3>
+                  <h3>{{time min_time}} - {{time max_time}}</h3>
                  <div class="event-option-icons-container">                  
                     {{#if extra_cost}}
                       <span class="custom-icon custom-icon-money"></span>
