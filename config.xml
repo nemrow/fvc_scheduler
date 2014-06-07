@@ -6,13 +6,13 @@
         id        = "com.fvc-app-p.herokuapp"
         version   = "1.0.0">
 
-    <name>FVC App</name>
+    <name>FVC</name>
 
     <description>
         Schedule for the Family Vacation Center
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
+    <author href="https://www.facebook.com/nemrow" email="nemrowj@gmail.com">
         Jordan Nemrow
     </author>
 
