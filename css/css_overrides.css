@@ -137,3 +137,7 @@ a.button.back::before, a.button.backTo::before {
 .segmented > .button {
   padding: 7px 0px;
 }
+
+a.button {
+  color: #3b6784;
+}
